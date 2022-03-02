@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Ayo Aduwo",
+    "occupation": "Web Developer & Data Scientist",
+    "description": "An exceptional Software Engineer with 3 years of experience in creating enterprise solutions and Web Applications that solves daily business and life challenges",
+    "image": "profilepic.jpg",
+    "bio": "I am a professional web developer with a lot of skills related to this field. I have 3 years of experience as a web developer and I am versatile with frameworks and libraries like ReactJs, RemixJs, Django, Flask, React-Redux, NextJs, sanity.io, SQL, MongoDB. I know I am perfect for this role. I am currently a freelancer on Fiverr and Upwork, I design, code and develop websites for clients. Moreso, regarding my personal projects, I have done a lot of projects and worked on websites clones too like Amazon, Twitter, just to name a few. I also created an online magazine just like Medium, where users will be able to sign Up, Login, edit their profiles and bio, and create posts just like forums. During the course of my learning, I have gained various accreditation and certificates from various websites on the internet including the acquisition test from LinkedIn. I make sure I refine my skills daily to meet up with the evolution of the internet and Technology. I have good technical and reasoning abilities. . My refined Data Structure and Algorithm skills ensure I write more efficient programs I have always been so passionate about Web Development and Design. From the on-set, I have been a fan of Technology and Science alongside the internet. I have always followed the latest update regarding the internet’s evolution and started when I was 13 years of age. I always see myself to be a part of this innovative world of technology ",
+    "contactmessage": "Get in touch with me!",
+    "email": "aduwoayooluwa@gmail.com",
+    "phone": "+234 8144341503",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "website": "#",
+    "resumedownload": "https://drive.google.com/file/d/1inHzGumZh8sToR8PDi8ED-Aty7Yjti6M/view?usp=sharing",
+    "social": [
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ayoaduwo/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/AduwoAyooluwa",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/ayoaduwo",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Skills",
+      
+    "work": [
+      {
+        "company": "Fiverr",
+        "title": "Freelancing",
+        "years": "2019 - Present",
+        "description": "Solving problems for businesses and Enterprises"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Data Science",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "73%"
+      },
+      {
+        "name": "SQL",
+        "level": "71%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Portfolio Site (React JS)",
+        "category": "",
+        "image": "resume-website.png",
+        "url": "#"
+      },
+      {
+        "title": "Rainbow Todo App (React JS)",
+        "category": "",
+        "image": "todo.png",
+        "url": "https://todoapp-iota-green.vercel.app/"
+      },
+      {
+        "title": "HubConnect",
+        "category": "",
+        "image": "hubconnect.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ayo is absolutely excellent, his depth of knowledge & his abilities are vast... I would definitely recommend",
+        "user": "Emmanuel Adebayo"
+      },
+      {
+        "text": "Ayo is a very good developer. He is the best I've seen.",
+        "user": "Segun Adeola"
+      }
+    ]
+  }
+}
