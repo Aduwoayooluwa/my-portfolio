@@ -59,7 +59,7 @@ const Header = ({ data }) => {
             </a>
           </li>
           <li>
-            <a className="smoothscroll" href="https://thewebgate.net" target='_blank'>
+            <a className="smoothscroll" href="https://thewebgate.net" target='_blank' rel="noreferrer">
               Blog
             </a>
           </li>
