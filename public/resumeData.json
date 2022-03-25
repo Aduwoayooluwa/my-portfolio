@@ -99,6 +99,12 @@
         "category": "",
         "image": "amzon.png",
         "url": "https://amazonclone-asl6od2gx-aduwoayooluwa.vercel.app/"
+      },
+         {
+        "title": "Modern UI",
+        "category": "",
+        "image": "swiftsleek.png",
+        "url": "https://swiftsleek-modernui.vercel.app/"
       }
     ]
   },
